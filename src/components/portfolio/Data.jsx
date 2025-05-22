@@ -12,6 +12,20 @@ import image9 from "../../assets/portfolio/sound-music.jpg";
 export const Data = [
     {
         id: 1,
+        title: 'Quiosco Backend',
+        image: '',
+        codeLink: "https://github.com/rmarchino/quiosco-backend.git",
+        previewLink: ""
+    },
+    {
+        id: 2,
+        title: 'Quiosco Frontend',
+        image: '',
+        codeLink: "https://github.com/rmarchino/quiosco-frontend.git",
+        previewLink: ""
+    },
+    {
+        id: 3,
         title: 'Administrar productos',
         image: image1,
         codeLink: "https://github.com/rsteyker/administrar-products-react",
@@ -19,56 +33,56 @@ export const Data = [
     },
 
     {
-        id: 2,
+        id: 4,
         title: 'Aplicación Clima',
         image: image2,
         codeLink: "https://github.com/rsteyker/app-clima-react",
         previewLink: "https://aplication-clima-react.netlify.app/"
     },
     {
-        id: 3,
+        id: 5,
         title: 'Tú casa en el bosque',
         image: image3,
         codeLink: "https://github.com/rsteyker/Tu-casa-en-el-bosque",
         previewLink: "https://house-in-forest-website-aplication.netlify.app/"
     },
     {
-        id: 4,
+        id: 6,
         title: 'Cotiza criptomonedas al instante',
         image: image4,
         codeLink: "https://github.com/rsteyker/criptos-react",
         previewLink: "https://cotizar-criptomonedas-react-hook.netlify.app/"
     },
     {
-        id: 5,
+        id: 7,
         title: 'E-Commerce',
         image: image5,
         codeLink: "https://github.com/rsteyker/e-comerce",
         previewLink: "https://app.netlify.com/sites/e-comerce-react-redux/overview"
     },
     {
-        id: 6,
+        id: 8,
         title: 'Unete a la vida este es un meeti',
         image: image6,
         codeLink: "https://github.com/rsteyker/meeti",
         previewLink: "https://meeti-web-aplication.netlify.app/"
     },
     {
-        id: 7,
+        id: 9,
         title: 'Planificador de gastos',
         image: image7,
         codeLink: "https://github.com/rsteyker/administrar-gastos",
         previewLink: "https://administrar-tus-gastos-react.netlify.app/"
     },
     {
-        id: 8,
+        id: 10,
         title: 'Encuentra tu pokemon favorito',
         image: image8,
         codeLink: "https://github.com/rsteyker/pokedex-react-router",
         previewLink: "https://pokedex-rutas-protegidas-react.netlify.app/"
     },
     {
-        id: 9,
+        id: 11,
         title: 'Sonido profesional Sound Music',
         image: image9,
         codeLink: "https://github.com/rsteyker/soundmusic",

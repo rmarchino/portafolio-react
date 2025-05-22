@@ -1,4 +1,4 @@
-import CV from "../../assets/CV_DESARROLLADOR_FULL_STACK_ROBERT.pdf";
+import CV from "../../assets/CV_DESARROLLADOR_FULL_STACK_ROBERT_MARCHINO.pdf";
 
 const Data = () => {
   return (
@@ -8,13 +8,7 @@ const Data = () => {
         Frontend Developer, Backend Developer, Desarrollador Full-Stack
       </h3>
       <p className="home__description">
-        Desarrollador Full-Stack con 3 años de experiencia en diseño,
-        desarrollo e implementación de aplicaciones web. Mi experiencia abarca
-        desde el desarrollo del lado del servidor hasta la creación de
-        interfaces de usuario interactivas. Poseo habilidades sólidas en
-        tecnologías como: Node.js, PHP, Express, JavaScript, React, Vue y otras,
-        lo que me permite ofrecer soluciones completas y eficientes para
-        proyectos web.
+        Soy un Desarrollador Full-Stack con más de 3 años de experiencia en la creación de aplicaciones web completas, desde el backend hasta interfaces de usuario intuitivas y responsivas. Domino tecnologías como Node.js, PHP, Laravel, Express, JavaScript, React y Vue, lo que me permite construir soluciones robustas, escalables y eficientes. Me apasiona la innovación, el trabajo colaborativo y la mejora constante. Siempre busco aportar valor a los proyectos con soluciones prácticas y modernas.
       </p>
 
       <div className="container__button-grid">

@@ -16,7 +16,7 @@ const Frontend = () => {
                     <div className="skills__data">
                         <i className='bx bx-badge-check'></i>
                         <div className="">
-                            <h3 className="skills__name">React</h3>
+                            <h3 className="skills__name">React.js</h3>
                             <span className="skills__level">Avanzado</span>
                         </div>
                     </div>
